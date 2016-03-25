@@ -1,6 +1,6 @@
 {
   "name": "hubot-bearychat",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "BearyChat adapter for hubot",
   "main": "./src/bearychat",
   "keywords": [
@@ -17,8 +17,7 @@
   "bugs": {
     "url": "https://github.com/bearyinnovative/hubot-bearychat/issues"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "peerDependencies": {
     "hubot": ">=2.0"
   },
